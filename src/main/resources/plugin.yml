@@ -1,0 +1,7 @@
+name: DeathFloor
+author: Erik
+website: erikbigdev.github.io
+main: io.github.erikbigdev.deathfloor.DeathFloor
+version: 1.0
+api-version: 1.16
+load: POSTWORLD
